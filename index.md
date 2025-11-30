@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Xiao-Hua Luo is a hematologist/immunologist who works at The First Affiliated Hospital of CQMU>
+Xiao-Hua Luo is a hematologist/immunologist who works at The First Affiliated Hospital of CQMU
 
 ## Research Interests
 
