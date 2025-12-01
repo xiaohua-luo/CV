@@ -1,39 +1,75 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Education</h2>
+<h2 id="education" style="margin: 2px 0px -15px;">Education</h2>
 
 <div class="publications">
-<ol class="bibliography">
+  <ol class="bibliography">
 
-{% for link in site.data.experience.main %}
-{% if link.type contains "education" %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title">{{ link.degreepath }}</div>
-      <div class="author">{{ link.institution }} | {{ link.department }} | {{ link.years }}</div>
-      <div class="periodical"><b>Committee:</b> {{ link.advisors }}
+    <!-- Stanford Visiting Scientist -->
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">Visiting Scientist – Immunology &amp; Hematology</div>
+          <div class="author">
+            Human Immune Monitoring Center, Stanford School of Medicine, Stanford University | 2024.12 – present
+          </div>
+          <div class="periodical">
+          </div>
+        </div>
       </div>
-    <div class="links">
-      {% if link.text %} 
-      <a href="{{ link.text }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-{% endif %}
-{% endfor %}
-</ol>
+    </li>
+
+    <!-- Karolinska Visiting Scholar -->
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">Visiting Scholar – Therapeutic Immunology</div>
+          <div class="author">
+            Department of Laboratory Medicine, Division of Therapeutic Immunology, Karolinska Institutet | 2016.01 – 2017.06
+          </div>
+          <div class="periodical">
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <!-- Peking University PhD -->
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">Ph.D. in Hematology</div>
+          <div class="author">
+            Peking University Health Science Center, Beijing, P.R. China | 2006 – 2009
+          </div>
+          <div class="periodical">
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <!-- Tongji Master -->
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">Master of Hematology</div>
+          <div class="author">
+            Tongji Medical College, Huazhong University of Science and Technology, Wuhan, P.R. China | 2003 – 2006
+          </div>
+          <div class="periodical">
+          </div>
+        </div>
+      </div>
+    </li>
+
+    <!-- Tongji Bachelor -->
+    <li>
+      <div class="pub-row">
+        <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+          <div class="title">Bachelor of Clinical Medicine</div>
+          <div class="author">
+            Tongji Medical College, Huazhong University of Science and Technology, Wuhan, P.R. China | 1996 – 2001
+          </div>
+        </div>
+      </div>
+    </li>
+
+  </ol>
 </div>
