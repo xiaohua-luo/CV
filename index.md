@@ -8,9 +8,9 @@ Xiao-Hua Luo is a hematologist/immunologist who works at The First Affiliated Ho
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **HSCT:** immune reconstitution, relapsed/refractory complications
+- **Advanced cellular therapy:** intrinsic resistance and long-term survival
+- **Acute myeloid leukemia:** novel therapeutic strategies
 
 {% include_relative _includes/education.md %}
 
