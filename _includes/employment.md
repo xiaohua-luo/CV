@@ -5,7 +5,6 @@
   <!-- Hematology – Chongqing Medical University -->
   <div class="pub-row">
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><b>Chief Resident of Hematology</b></div>
         <div class="author">
           Department of Hematology, The First Affiliated Hospital of Chongqing Medical University, Chongqing, P.R. China 
           | 2012 – present
@@ -17,7 +16,6 @@
   <!-- Pediatric Onco-Hematology – Children's Hospital -->
   <div class="pub-row">
     <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-        <div class="title"><b>Staff Pediatrician / Attending Pediatrician</b></div>
         <div class="author">
           Department of Onco-Hematology, Children's Hospital of Chongqing Medical University, Chongqing, P.R. China
           | 2009 – 2011
