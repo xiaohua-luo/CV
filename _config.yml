@@ -4,12 +4,7 @@
 title: "Xiao-Hua Luo"
 position: "Hematologist / Immunologist"
 affiliation: "Department of Hematology, The First Affiliated Hospital of Chongqing Medical University"
-
-{% for e in site.data.info.email %}
-  <div>{{ email:
-  - "xiaohua․luo ⟨at⟩ gmail․com"
-  - "xiaohua-luo ⟨at⟩ 163․com" }}</div>
-{% endfor %}
+email: "xiaohua․luo ⟨at⟩ gmail․com"
 
 
 
