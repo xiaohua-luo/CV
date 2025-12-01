@@ -1,10 +1,12 @@
-# Basic Information 
-title: "Xiao-Hua Luo" # your name goes here
-position: Hematologist/Immunologist # your position title goes here
-affiliation: Department of Hematology, The First Affiliated Hospital of Chongqing Medical University # your affiliated school goes here
-email: # your email goes here
-  - xiaohua․luo ⟨at⟩ gmail․com  
-  - xiaohua-luo ⟨at⟩ 163․com
+# Basic Information
+title: "Xiao-Hua Luo"
+position: "Hematologist / Immunologist"
+affiliation: "Department of Hematology, The First Affiliated Hospital of Chongqing Medical University"
+
+email:
+  - "xiaohua․luo ⟨at⟩ gmail․com"
+  - "xiaohua-luo ⟨at⟩ 163․com"
+
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
