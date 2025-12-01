@@ -37,7 +37,7 @@
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title">Ph.D. in Hematology</div>
           <div class="author">
-            Peking University Health Science Center, Beijing, P.R. China | 2006 – 2009
+            Peking University Health Science Center, Beijing, P.R. China | 2009
           </div>
           <div class="periodical">
           </div>
@@ -51,7 +51,7 @@
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title">Master of Hematology</div>
           <div class="author">
-            Tongji Medical College, Huazhong University of Science and Technology, Wuhan, P.R. China | 2003 – 2006
+            Tongji Medical College, Huazhong University of Science and Technology, Wuhan, P.R. China | 2006
           </div>
           <div class="periodical">
           </div>
@@ -65,7 +65,7 @@
         <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title">Bachelor of Clinical Medicine</div>
           <div class="author">
-            Tongji Medical College, Huazhong University of Science and Technology, Wuhan, P.R. China | 1996 – 2001
+            Tongji Medical College, Huazhong University of Science and Technology, Wuhan, P.R. China | 2001
           </div>
         </div>
       </div>
