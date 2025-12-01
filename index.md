@@ -6,7 +6,7 @@ layout: homepage
 
 Xiao-Hua Luo is a hematologist/immunologist who works at The First Affiliated Hospital of CQMU
 
-Xiao-Hua Luo, MD, PhD
+MD, PhD
 Chief Physician / Associate Professor / Associate Research Scientist
 Department of Hematology,
 The First Affiliated Hospital of Chongqing Medical University
