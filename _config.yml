@@ -1,3 +1,26 @@
+<h2 id="contact" style="margin: 2px 0px -15px;">Contact</h2>
+
+<div class="contact-info" style="margin-left: 20px;">
+
+  <p><b>Email:</b></p>
+  {% for e in site.data.info.email %}
+    <div style="margin-bottom:4px;">{{ e }}</div>
+  {% endfor %}
+
+  {% if site.data.info.location %}
+  <p style="margin-top:10px;"><b>Location:</b><br>
+     {{ site.data.info.location }}
+  </p>
+  {% endif %}
+
+  {% if site.data.info.website %}
+  <p><b>Website:</b> 
+    <a href="{{ site.data.info.website }}" target="_blank">{{ site.data.info.website }}</a>
+  </p>
+  {% endif %}
+
+</div>
+
 # Basic Information
 title: "Xiao-Hua Luo"
 position: "Hematologist / Immunologist"
