@@ -221,19 +221,6 @@ main:
     others:
 
   - type: essay
-    pub_abbr: "Oncol Rep"
-    title: "SPAG6 regulates cell apoptosis through the TRAIL signal pathway in myelodysplastic syndromes."
-    authors: "Li X, Yang B, Wang L, Chen L, Luo X, Liu L."
-    publication: "Oncology Reports"
-    date: "2017 May 1;37(5):2839–46."
-    doi:
-    pdf:
-    code:
-    page:
-    notes:
-    others:
-
-  - type: essay
     pub_abbr: "Oncoimmunology"
     title: "Tumor-infiltrating lymphocytes (TILs) from patients with glioma."
     authors: "Liu Z, Meng Q, Bartek Jr J, Poiret T, Persson O, Rane L, Rangelova E, Illies C, Peredo IH, Luo X, Rao MV."
@@ -273,37 +260,11 @@ main:
     others:
 
   - type: essay
-    pub_abbr: "Int J Oncol"
-    title: "SPAG6 silencing inhibits the growth of the malignant myeloid cell lines SKM-1 and K562 via activating p53 and caspase activation- dependent apoptosis."
-    authors: "Yang B, Wang L, Luo X, Chen L, Yang Z, Liu L*."
-    publication: "International Journal of Oncology"
-    date: "2015;46(2):649–656."
-    doi:
-    pdf:
-    code:
-    page:
-    notes:
-    others:
-
-  - type: essay
     pub_abbr: "J Immunol Res"
     title: "Improving cytomegalovirus specific T cell reconstitution after haploidentical stem cell transplantation."
     authors: "Xiao-Hua Luo, Ying-Jun Chang, Xiao-Jun Huang*."
     publication: "Journal of Immunology Research"
     date: "2014;2014."
-    doi:
-    pdf:
-    code:
-    page:
-    notes:
-    others:
-
-  - type: essay
-    pub_abbr: "Oncol Lett"
-    title: "Acute basophilic leukemia presenting with maculopapular rashes and a gastric ulcer: A case report."
-    authors: "Xiao-Hua Luo, Yan Zhu, and Xiao-Qiong Tang*."
-    publication: "Oncology Letters"
-    date: "2014;8(4):2513–2516."
     doi:
     pdf:
     code:
