@@ -1,18 +1,29 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Employment</h2>
+<h2 id="employment" style="margin: 2px 0px -15px;">Employment</h2>
 
 <div class="publications">
 
-{% for link in site.data.experience.main %}
-{% if link.type contains "job" %}
-<div class="pub-row">
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><b>{{ link.title }}</b></div>
-      <div class="author">{{ link.institution }} {% if link.department %}| {{ link.department }} {% endif %}{% if link.years %}| {{ link.years }}{% endif %}</div>
-  </div>{% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-</div><br>
+  <!-- Hematology – Chongqing Medical University -->
+  <div class="pub-row">
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><b>Chief Resident of Hematology</b></div>
+        <div class="author">
+          Department of Hematology, The First Affiliated Hospital of Chongqing Medical University, Chongqing, P.R. China 
+          | 2012 – present
+        </div>
+    </div>
+  </div>
+  <br>
 
-{% endif %}
-{% endfor %}
+  <!-- Pediatric Onco-Hematology – Children's Hospital -->
+  <div class="pub-row">
+    <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+        <div class="title"><b>Staff Pediatrician / Attending Pediatrician</b></div>
+        <div class="author">
+          Department of Onco-Hematology, Children's Hospital of Chongqing Medical University, Chongqing, P.R. China
+          | 2009 – 2011
+        </div>
+    </div>
+  </div>
+  <br>
+
 </div>
